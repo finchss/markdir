@@ -1,4 +1,4 @@
-module markdir
+module github.com/finchss/markdir
 
 go 1.21.3
 
